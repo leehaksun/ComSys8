@@ -7,8 +7,9 @@
    2011136084 	| 이도형
    2013136146 	| 이학선
 
+> [This file(README.md) is edited here](https://github.com/leehaksun/ComSys8/)
 
-> * 목차
+### 목차
 1. 필요성 
 2. 시스템개요
 3. 기존관련사례
