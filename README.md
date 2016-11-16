@@ -3,9 +3,9 @@
 ---
    학번 		| 이름
    -----------	| -----
-   2010136021	| 김명상
-   2011136084 	| 이도형
-   2013136146 	| 이학선
+   2010136021	| [김명상](./협업실습_개인과제1.txt)
+   2011136084 	| [이도형](./DohyungLee.txt)
+   2013136146 	| [이학선](./Leehaksun.txt)
 
 > [This file(README.md) is edited here](https://github.com/leehaksun/ComSys8/)
 
